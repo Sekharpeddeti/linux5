@@ -40,3 +40,4 @@ tr
 uniq
 wc
 zcat / zmore
+git clone
